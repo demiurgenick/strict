@@ -1,0 +1,45 @@
+.simple {
+	background: #F6F9F9;
+	padding: 80px 0;
+	text-align: center;
+}
+.simple h2 {
+	font-size: 40px;
+	margin-bottom: 40px;
+}
+.simple p {
+	font-size: 20px;
+	color: #A5A6A6;
+}
+/* FEATURE */
+.feature {
+	background-color: #fff;
+	padding: 70px 0;
+	text-align: center;
+}
+.feature-owerblock {
+	display: flex;
+	justify-content: center;
+}
+.feature-block {
+	color: #fff;
+	height: 100px;
+	width: 100px;
+	background-color: #5FC3FF;
+	background-image: url(../img/bg.png);
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+}
+.feature-block i {
+	align-self: center;
+	font-size: 40px;
+}
+.feature p {
+	color: #A5A6A6;
+	font-size: 15px;
+}
+.feature h3 {
+	font-size: 22px;
+	margin: 30px 0;
+}
